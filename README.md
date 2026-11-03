@@ -93,7 +93,7 @@ Production web projects I've built, deployed, and maintained for real businesses
 
 | Project | What it is | Live |
 | :--- | :--- | :--- |
-| **EcoSpark Solutions** | Licensed electrician, Fremont &amp; the Bay Area (USA) | [ecosparksolutionsllc.com](https://ecosparksolutionsllc.com/) |
+| **EcoSpark Solutions** | Licensed electrician, Fremont &amp; the Bay Area (USA) | [ecosparkelectric.com](https://ecosparkelectric.com/) |
 | **Beyond Bali Tours** | Travel agency platform (Odoo ERP + custom module) | [beyondbali.tours](https://www.beyondbali.tours/) |
 | **Puri Tomato** | Business website | [puritomato.com](https://www.puritomato.com/) |
 | **Jero Farm** | Business website | [jero.farm](https://www.jero.farm/) |

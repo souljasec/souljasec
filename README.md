@@ -76,7 +76,7 @@ Owned a live production environment for a travel agency.
 - Deployed **Zero-Trust** networking (Headscale) for encrypted, authenticated admin access
 - Remediated critical web vulnerabilities via dependency lifecycle management and emergency patching
 
-### 📋 CIS Benchmark Audit — *Ticket To The Moon (Contract, 2026)*
+### 📋 CIS Benchmark Audit — *[Ticket To The Moon](https://www.tickettothemoon.com/) (Contract, 2026)*
 - Audited external-facing infrastructure across web and VPS environments
 - Identified system-hardening gaps and high-risk findings
 - Delivered structured reports with prioritized remediation roadmaps for technical and business stakeholders

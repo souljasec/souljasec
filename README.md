@@ -87,6 +87,16 @@ Owned a live production environment for a travel agency.
 
 ---
 
+## 🛠️ Open-Source Projects
+
+### ✅ Reminders Kanban — *[reminders-kanban](https://github.com/souljasec/reminders-kanban)* · MIT
+An Apple-style Kanban board for **Apple Reminders** that lives on the macOS desktop — and that your **AI assistant can add tasks to**.
+- **To Do · Doing · Done** widget synced to iPhone, Apple Watch and Siri through Reminders
+- Native **Swift (EventKit)** helper that doubles as an **MCP server** and CLI, so Claude, Codex, Cursor &amp; others can list, add, update, move and complete tasks — no delete tool by design, so AI can never remove your data
+- One-command installer / updater with auto-configured AI clients and a built-in `doctor` health check
+
+---
+
 ## 🌐 Client Builds — Shipped &amp; Live
 
 Production web projects I've built, deployed, and maintained for real businesses:
